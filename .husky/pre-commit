@@ -1,0 +1,2 @@
+npm run process-images
+git add -A content/blog public/blog content/projects public/projects content/photography || true
